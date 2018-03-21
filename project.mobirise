@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sparsh 2k18",
-    "currentPage": "techcse.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -70,10 +70,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -109,7 +109,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "1.35",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -118,7 +118,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -166,7 +166,7 @@
           },
           "title": "SPARSH '18",
           "text": "Join us in what could be the last technical event to be hosted and you sure would not like to miss the penultimate melting pot of zeal &nbsp;, creativity and charishma lasting over 3 days&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features4-a\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features4-a\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> ",
           "_tags": [
             "Theme"
           ],
@@ -460,7 +460,7 @@
           },
           "title": "MISCELLANEOUS",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1f\" data-toolbar=\"-mbrBtnMove\">LAN Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1g\" data-toolbar=\"-mbrBtnMove\">Mobile Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1h\" data-toolbar=\"-mbrBtnMove\">Fastest Finger First</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1i\" data-toolbar=\"-mbrBtnMove\">A Quiz With No Name</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1j\" data-toolbar=\"-mbrBtnMove\">Dumb Charades</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1k\" data-toolbar=\"-mbrBtnMove\">Roadies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1l\" data-toolbar=\"-mbrBtnMove\">Treasure Hunt</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1m\" data-toolbar=\"-mbrBtnMove\">Tattoo Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1n\" data-toolbar=\"-mbrBtnMove\">Face Painting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1o\" data-toolbar=\"-mbrBtnMove\">Wall Painting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1p\" data-toolbar=\"-mbrBtnMove\">Selfie Contest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1q\" data-toolbar=\"-mbrBtnMove\">Meme Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1r\" data-toolbar=\"-mbrBtnMove\">Foot Loose(Break The Dance)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1s\" data-toolbar=\"-mbrBtnMove\">Mock Parliamet</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-29\" data-toolbar=\"-mbrBtnMove\">Debate</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-23\" data-toolbar=\"-mbrBtnMove\">Pictionary</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-26\" data-toolbar=\"-mbrBtnMove\">Spell-Bee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-25\" data-toolbar=\"-mbrBtnMove\">Paper Dance</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-24\" data-toolbar=\"-mbrBtnMove\">Jeopardy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-27\" data-toolbar=\"-mbrBtnMove\">Clay Modeling<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-28\" data-toolbar=\"-mbrBtnMove\">Common Quiz<br></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1f\" data-toolbar=\"-mbrBtnMove\">LAN Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1g\" data-toolbar=\"-mbrBtnMove\">Mobile Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1h\" data-toolbar=\"-mbrBtnMove\">Fastest Finger First</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1i\" data-toolbar=\"-mbrBtnMove\">A Quiz With No Name</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1j\" data-toolbar=\"-mbrBtnMove\">Dumb Charades</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1k\" data-toolbar=\"-mbrBtnMove\">Roadies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1l\" data-toolbar=\"-mbrBtnMove\">Treasure Hunt</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1m\" data-toolbar=\"-mbrBtnMove\">Tattoo Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1n\" data-toolbar=\"-mbrBtnMove\">Face Painting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1o\" data-toolbar=\"-mbrBtnMove\">Wall Painting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1p\" data-toolbar=\"-mbrBtnMove\">Selfie Contest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1q\" data-toolbar=\"-mbrBtnMove\">Meme Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1r\" data-toolbar=\"-mbrBtnMove\">Foot Loose(Break The Dance)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-2i\" data-toolbar=\"-mbrBtnMove\">Mock Parliamet</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-29\" data-toolbar=\"-mbrBtnMove\">Debate</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-23\" data-toolbar=\"-mbrBtnMove\">Pictionary</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-26\" data-toolbar=\"-mbrBtnMove\">Spell-Bee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-25\" data-toolbar=\"-mbrBtnMove\">Paper Dance</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-24\" data-toolbar=\"-mbrBtnMove\">Jeopardy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-27\" data-toolbar=\"-mbrBtnMove\">Clay Modeling<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-28\" data-toolbar=\"-mbrBtnMove\">Common Quiz<br></a> ",
           "_tags": [
             "Theme"
           ],
@@ -492,23 +492,29 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picsart-03-21-09.50.50-589x511.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picsart-03-21-10.15.22-589x511.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20180320-wa0002-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/picsart-03-21-10.19.04-589x511.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -598,7 +604,7 @@
             "overlayOpacity": 0.5
           },
           "text": "FOLLOW US",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/shlvish55/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-white\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/sparsh2k18/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
@@ -635,10 +641,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -674,7 +680,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "1.35",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -683,7 +689,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -753,7 +759,7 @@
           },
           "title": "&lt;Let's CS /&gt;<br><br>",
           "text": "Participate in the competitive quizzing session covering C,HTML,CSS,JavaScript and tech related questions.<br>90 questions.<br>90 minutes.<br><br>Co-Ordinators - Vaibhav Tripathi<br>Rohan Raj Singh<br>Atul Singh<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">&nbsp;FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">&nbsp;FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -805,7 +811,7 @@
           },
           "title": "{CODE CAMP}",
           "text": "Code your way to conquer the world.You can use any language to solve a series of problems in time bound scenario.<br>Before participating make sure to have an account of <a href=\"http://www.hackerrank.com\" target=\"_blank\">Hackerrank</a>.<br>C0-Ordinator-Vaibhav Tripathi<br>Rohan Raj Singh<br>Atul Singh<br>Prabhat Pandey<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9457036674\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9457036674\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -856,7 +862,7 @@
           },
           "title": "(DESIGN X)<br>",
           "text": "Showcase your designing skills using tools of web design-HTML,CSS,JavaScript.<br>Co-Ordinators-Atul Singh<br>Ramashish Maurya<br>Preeti Kumari",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726787321\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726787321\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -906,8 +912,8 @@
             }
           },
           "title": "[BLIND CODING]",
-          "text": "Turn your Arjun mode ON and hit the right spot.<br>Code &nbsp;some simple problems in a time bound scenario while the screen is shut.Minimise your errors to advance yourself in the competition.<br>Co-Ordinators-Prashant Sharma<br>Vanshika Gupta<br>Shivangi Gupta",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9454070207\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Turn your Arjun mode ON and hit the right spot.<br>Code &nbsp;some simple problems in a time bound scenario while the screen is shut.Minimise your errors to advance yourself in the competition.<br>Co-Ordinators-Shivangi Gupta<br>Prashant Sharma<br>Vanshika Gupta<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9454070207\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -956,9 +962,9 @@
               "size": 250
             }
           },
-          "title": "PROJECT EXHIBITION/ TECHNICAL PRESENTATION",
+          "title": "Project Exhibiton/Technical Presentation",
           "text": "Showcase your project or give a technical presentation on any topic of your choice.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER<br></a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -995,10 +1001,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1034,7 +1040,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "1.35",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1043,7 +1049,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1088,7 +1094,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -1112,8 +1118,8 @@
             }
           },
           "title": "2D DRAFTING",
-          "text": "Showcase your drafting skills.<br>C0-Ordinators:-&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Showcase your drafting skills.<br>C0-Ordinators:-Mukul Kumar<br>Arun Kumar<br>Shubham Namdev&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9758460189\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1163,8 +1169,8 @@
             }
           },
           "title": "BRIDGE MAKING",
-          "text": "Design a light weight but durable bridge.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Design a light weight but durable bridge.<br>Co-Oridnators-Arun Kumar<br>Shubham Namdev",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9506064217\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1213,14 +1219,19 @@
               "size": 250
             }
           },
-          "title": "HYDRAULIC WEIGHT LIFTING",
-          "text": "Implement your knowledge of hydraulics to lift weight to win the battle.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "title": "Hydraulic Weight Lifting",
+          "text": "Implement your knowledge of hydraulics to lift weight to win the battle.<br>Co-ordinators-Mukul Kumar<br>Vijay Pathak",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9758460189\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-14"
+          "_anchor": "header2-14",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
@@ -1265,8 +1276,8 @@
             }
           },
           "title": "WATER ROCKETRY",
-          "text": "Design your rocket that can reach the moon.<br>Aim for the moon, even if you miss you can land among the stars.<br>Be the next ELON MUSK.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Design your rocket that can reach the moon.<br>Aim for the moon, even if you miss you can land among the stars.<br>Be the next ELON MUSK.<br>Co-Ordinators-Mukul Kumar<br>Vijay Pathak",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9758460189\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1316,8 +1327,8 @@
             }
           },
           "title": "AIR COMPRESSED CAR",
-          "text": "Design a car that goes faster than a ferrari.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Design a car that goes faster than a ferrari.<br>Co-Ordinators-Vijay Pathak<br>Mukul Kumar",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9758460189\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1366,9 +1377,9 @@
               "size": 250
             }
           },
-          "title": "PROJECT EXHIBITION/ TECHNICAL PRESENTATION",
+          "title": "Project Exhibition/ Technical Presentation",
           "text": "Showcase your project or give a technical presentation on any topic of your choice.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -1405,10 +1416,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1444,7 +1455,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "1.35",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1453,7 +1464,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1486,7 +1497,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "46",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/eceback-2000x1413.jpg",
             "parallax": true,
@@ -1498,7 +1509,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -1521,9 +1532,9 @@
               "size": 250
             }
           },
-          "title": "PROJECT EXHIBITION/ TECHNICAL PRESENTATION",
+          "title": "Project Exhibition/Technical Presentation",
           "text": "Showcase your project or give a technical presentation on any topic of your choice.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1599,7 +1610,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "1.35",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -1608,7 +1619,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1677,8 +1688,8 @@
             }
           },
           "title": "SINGING",
-          "text": "Let the world know your RAAGs. <br>Show ypur talent and amaze everyone by your voice.<br>You can also bring a partner with you as the event is in both solo and duet formats.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "SIng your heart out!<br>Participate in Solo , Duet or Group category.<br>Co-Ordinators-Praviksha Tomar<br>Priyanka Singh",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9958056152\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1736,8 +1747,8 @@
             }
           },
           "title": "DANCING",
-          "text": "Show all the moves you got to win the battle.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Show all the moves you got to win the battle.<br>Participate in Solo , Duet or group category.<br>Co-Ordinators-Suvesh Tiwari<br>Rakshita Mishra<br>Vanshika Gupta<br>Aman Gautam<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9415108848\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1795,8 +1806,8 @@
             }
           },
           "title": "SKIT",
-          "text": "Let the creativity flow in your blood.&nbsp;<br>Show your acting skills to tell your story.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Act it out . Register with your team.<br>Co-Ordinators-Arun Kumar<br>Bhawna Singh<br>Aditya Rai<br>Praviksha Tomar",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9411943256\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1855,7 +1866,7 @@
           },
           "title": "RAMP WALK",
           "text": "Let your walk do the talk.<br>Co-Ordinators-Anurag Mishra<br>Shivangi Gupta<br>Pragati Yadav<br>Ayan Kushwaha<br>Preeti Kumari",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9718060366\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1914,7 +1925,7 @@
           },
           "title": "EXTRA TALENT",
           "text": "There is no bound to talent . Showcase some Entertaining skills.It could be Rapping,Mimicry,Stand Up comedy,BeatBoxing or better yet come up with something of your own.<br>Co-Ordinators-Manas Satsangi<br>Suvesh Tiwari<br>Preeti Kumari",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9453858154\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -1998,7 +2009,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "1.35",
+            "fontSize": "1.1",
             "fontName": {
               "name": "Roboto Condensed",
               "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
@@ -2007,7 +2018,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2076,8 +2087,8 @@
             }
           },
           "title": "LAN GAMING",
-          "text": "Bring your team to fight with other teams to be the boss of the gaming.<br>NFS and Counter Strike are the games to rule virtully.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Compete in this networked gaming . | Counter Strike | Need for Speed -Most Wanted | . n00bs unite!<br>Co-Ordinators- Shishil Vishwakarma<br>Yash Bhardwaj",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:7860572228\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2135,8 +2146,8 @@
             }
           },
           "title": "MOBILE GAMING",
-          "text": "Bring your team for battle and hit the veins of others.<br>Mini Miltia is the game to show your gaming skills.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Compete in Mini Militia<br>Co-Oridnators-Manas Satsangi<br>Anubhav Upadhyay<br>Bhawna Singh",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9453858154\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2194,8 +2205,8 @@
             }
           },
           "title": "FASTEST FINGER FIRST",
-          "text": "How quick you are on the keyboard will decide your position in the war of fingers.<br><br>Co-Ordinators:- Vaibhav Tripathi<br>Ayush Sharma",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Type fast and accurate to win this fierce but calculated event.<br><br>Co-Ordinators:- Vaibhav Tripathi<br>Ayush Sharma",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2235,7 +2246,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/best-funny-anti-jokes-426x284.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2250,8 +2264,8 @@
             }
           },
           "title": "A QUIZ WITH NO NAME",
-          "text": "KEOMDSOVMDOVMDEOVMEROIVMEO<br>C0-Ordinators:- Vaibhav Tripathi<br>Rohan Raj Singh",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Participate in this one of a kind fun quiz where your creativity , out of the box thinking and memory are rewarded along with your weird sense of humor . The more you accept anti-jokes , the better your chances of winning are . Sample Question-Why was 6 afraid of 7?<br>A-Because 7 ate 9<br>B-7 can't eat 9 . It is a number.<br>Correct Answer-B<br>&nbsp;&nbsp;<br>C0-Ordinators:- Vaibhav Tripathi<br>Rohan Raj Singh",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2309,8 +2323,8 @@
             }
           },
           "title": "DUMB CHARADES",
-          "text": "You have to communicate with your team without words to let them<br> guess the right movie name.<br>A team can have atmost 3 members.<br>Co-Ordinators:- Vaibhav Tripathi<br>Rohan Raj Singh<br>Ayush Sharma",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9457036674\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Give clues through acting or suggesting words of a movie to your partner(s).<br>A team can have atmost 3 members.<br>Co-Ordinators:- Vaibhav Tripathi<br>Rohan Raj Singh<br>Ayush Sharma",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9457036674\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2368,8 +2382,8 @@
             }
           },
           "title": "ROADIES",
-          "text": "Co-Ordinators:- Ayush Sharma<br>Aditya Rai<br>Suvesh Tiwari<br>Manas Satsangi<br>Priyanka Singh",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Do you have what it takes to be a Roadie?Find out!<br>Co-Ordinators:- Ayush Sharma<br>Aditya Rai<br>Suvesh Tiwari<br>Manas Satsangi<br>Priyanka Singh",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8430389975\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2424,8 +2438,8 @@
             }
           },
           "title": "TREASURE HUNT",
-          "text": "Discover your inner Sherlock . Search for the clues and reach the destination . Minimum 3 players. Maximium 5 players.<br>Co-Ordinators-Vaibhav Tripathi<br>Vijay Pathak",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Discover your inner Sherlock . Search for the clues and reach the destination . Minimum 3 and Maximium 5 players.<br>Co-Ordinators-Vaibhav Tripathi<br>Vijay Pathak",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2484,7 +2498,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">TATTOO MAKING</span>",
           "text": "Make a cool tattoo.Nuf' said.<br>Co-Ordinators-Swati Jha<br>Varun Gupta",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO_<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9953730299\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO_<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2542,8 +2556,8 @@
             }
           },
           "title": "FACE PAINTING",
-          "text": "Be creative and make a cool face.Using colors. &nbsp;:)",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Be creative and make a cool face.Using colors. &nbsp;:)<br>Co-Oridnators-Swati Jha<br>Mukul Kumar",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9758460189\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2602,7 +2616,7 @@
           },
           "title": "WALL PAINTING",
           "text": "Who didn't love pouring out their creativity on the walls when they were kids ! We all did . Experience it again in Wall painting.<br>Co-Ordinators-Mukul Kumar",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9758460189\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2661,7 +2675,7 @@
           },
           "title": "But first...Let me take a #selfie",
           "text": "Error 404 : Description not needed.<br>Upload your selfie to our official Facebook page . Remember to only send the selfie as a message(don't post on the page wall).The one with most Likes/Love reacts wins.( NO other reaction contributes to the selfie)<br>Deadline is 31st march&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">UPLOAD NOW-<span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.facebook.com/shlvish55/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPLOAD NOW-<span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "_tags": [
             "Theme"
           ],
@@ -2719,8 +2733,8 @@
             }
           },
           "title": "MEME MAKING",
-          "text": "<p>Make memes and conquer the world .Also prove Steve Wozniak wrong.Keep it CREATIVE,ORIGINAL and HUMOROUS.<br>Download these templates- TEMP1 | TEMP2 . You can submit only one entry on either or both the templates on our facebook page (only through message,don't post on page wall).<br>PS: It's not maymay :p<br>Co-Ordinators- &nbsp; Vaibhav Tripathi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rohan Raj Singh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Varun Gupta</p><br><p><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">UPLOAD NOW-<span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-&nbsp;<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "<p>Make memes and conquer the world . Also prove Steve Wozniak wrong.Keep it CREATIVE,ORIGINAL and HUMOROUS.<br><a href=\"assets/files/Templates.docx\">Download</a> these templates. You can submit only one entry on either or both the templates on our facebook page (only through message,don't post on page wall).<br>PS: It's not maymay :p<br>Co-Ordinators- &nbsp; Vaibhav Tripathi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rohan Raj Singh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Varun Gupta</p><br><p><br></p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.facebook.com/shlvish55/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPLOAD NOW-<span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-&nbsp;<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_tags": [
             "Theme"
           ],
@@ -2779,71 +2793,12 @@
           },
           "title": "FOOT-LOOSE",
           "text": "Just your usual dance competition but on steroids ! Change your dance style as the music changes .&nbsp;<br>CO-Ordinators-Vaibhav Tripathi<br>Vanshika Gupta",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
           "_anchor": "header2-1r",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#eb6b56"
-            },
-            ".mbr-section-text": {
-              "color": "#eb6b56"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "showArrow": true,
-            "imageSize": 50,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.3
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mock-parliament-400x350.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "MOCK PARLIAMENT",
-          "text": "Test yourself on debating topics covered in short.Topics will be provided on spot.<br>Co-Ordinators-Praviksha Tomar<br>Aditya Rai<br>Prabhat Pandey",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-1s",
           "_styles": {
             ".mbr-section-title": {
               "color": "#eb6b56"
@@ -2906,7 +2861,7 @@
           },
           "title": "DEBATE",
           "text": "Topics for the debate are-<br>Co-Ordinators-Praviksha Tomar<br>Aditya Rai<br>Prabhat Pandey",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9411943256\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -2965,7 +2920,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">PICTIONARY</span>",
           "text": "A picture is worth a thousand words.It's like dumb charades with Pictures instead.Not so dumb now!<br>Co-Ordinators-Vaibhav Tripathi<br>Nagma Shabbir",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -3024,7 +2979,7 @@
           },
           "title": "S-P-E-L-L &nbsp; B-E-E",
           "text": "The only accepted variant of Nazism is Grammar Nazism ! Make sure to spell the words correct in this fun event.<br>Co-Ordinators-Praviksha Tomar&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9958056152\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> ",
           "_tags": [
             "Theme"
           ],
@@ -3083,7 +3038,7 @@
           },
           "title": "PAPER DANCE",
           "text": "Dance on paper with your partner till your legs stay on paper.The paper folds in half in successive rounds.<br>Co-Ordinators-Vaibhav Tripathi<br>Vanshika Gupta",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -3142,7 +3097,7 @@
           },
           "title": "JEOPARDY",
           "text": "Always thought of yourself to be the confused soul with a lot to questions?Don't worry , now that can be an asset ! &nbsp;GIve questions based on answers.<br>Watch <a href=\"https://www.youtube.com/watch?v=BhmUdRAmnS4\" target=\"_blank\">Jeopardy</a> to know more!<br>Co-Ordinators-Vaibhav Tripathi<br>Priyanka Singh<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -3200,8 +3155,8 @@
             }
           },
           "title": "CLAY MODELING",
-          "text": "Get your tools and skills ready for this fun event.It sticks with you!<br>Co-Ordinators-",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-&nbsp;<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "text": "Get your tools and skills ready for this fun event.It sticks with you!<br>Co-Ordinators-Vijay Pathak<br>Mukul Kumar",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8423738868\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-&nbsp;<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -3260,7 +3215,7 @@
           },
           "title": "COMMON QUIZ",
           "text": "Participate in the competitive Reasoning+Current Affairs+Aptitude test<br>CO-Ordinators-Rustam Ali<br>Mukul Kumar",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/1bWirf8XirktpKIw4sTryRGw8-eoj6HhbRajHCJXY0cA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9758460189\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
@@ -3274,6 +3229,66 @@
             }
           },
           "_anchor": "header2-28"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mock-parliament-400x350.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Mock Parliament",
+          "text": "Compete in the debating topics given on spot to be &nbsp;covered in short.<br>Co-Ordinators-Praviksha Tomar<br>Aditya Rai<br>Prabhat Pandey&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9411943256\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2i",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#eb6b56",
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "color": "#eb6b56"
+            }
+          }
         }
       ]
     }
