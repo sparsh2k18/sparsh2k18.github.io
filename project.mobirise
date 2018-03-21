@@ -460,7 +460,7 @@
           },
           "title": "MISCELLANEOUS",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1f\" data-toolbar=\"-mbrBtnMove\">LAN Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1g\" data-toolbar=\"-mbrBtnMove\">Mobile Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1h\" data-toolbar=\"-mbrBtnMove\">Fastest Finger First</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1i\" data-toolbar=\"-mbrBtnMove\">A Quiz With No Name</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1j\" data-toolbar=\"-mbrBtnMove\">Dumb Charades</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1k\" data-toolbar=\"-mbrBtnMove\">Roadies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1l\" data-toolbar=\"-mbrBtnMove\">Treasure Hunt</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1m\" data-toolbar=\"-mbrBtnMove\">Tattoo Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1n\" data-toolbar=\"-mbrBtnMove\">Face Painting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1o\" data-toolbar=\"-mbrBtnMove\">Wall Painting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1p\" data-toolbar=\"-mbrBtnMove\">Selfie Contest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1q\" data-toolbar=\"-mbrBtnMove\">Meme Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1r\" data-toolbar=\"-mbrBtnMove\">Foot Loose(Break The Dance)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-2i\" data-toolbar=\"-mbrBtnMove\">Mock Parliamet</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-29\" data-toolbar=\"-mbrBtnMove\">Debate</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-23\" data-toolbar=\"-mbrBtnMove\">Pictionary</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-26\" data-toolbar=\"-mbrBtnMove\">Spell-Bee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-25\" data-toolbar=\"-mbrBtnMove\">Paper Dance</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-24\" data-toolbar=\"-mbrBtnMove\">Jeopardy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-27\" data-toolbar=\"-mbrBtnMove\">Clay Modeling<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-28\" data-toolbar=\"-mbrBtnMove\">Common Quiz<br></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1f\" data-toolbar=\"-mbrBtnMove\">LAN Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1g\" data-toolbar=\"-mbrBtnMove\">Mobile Gaming</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1h\" data-toolbar=\"-mbrBtnMove\">Fastest Finger First</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1i\" data-toolbar=\"-mbrBtnMove\">A Quiz With No Name</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1j\" data-toolbar=\"-mbrBtnMove\">Dumb Charades</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1k\" data-toolbar=\"-mbrBtnMove\">Roadies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1l\" data-toolbar=\"-mbrBtnMove\">Treasure Hunt</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1m\" data-toolbar=\"-mbrBtnMove\">Tattoo Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1n\" data-toolbar=\"-mbrBtnMove\">Face Painting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1o\" data-toolbar=\"-mbrBtnMove\">Wall Painting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1p\" data-toolbar=\"-mbrBtnMove\">Selfie Contest</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1q\" data-toolbar=\"-mbrBtnMove\">Meme Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc.html#header2-1r\" data-toolbar=\"-mbrBtnMove\">Foot Loose(Break The Dance)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-2i\" data-toolbar=\"-mbrBtnMove\">Mock Parliament</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-29\" data-toolbar=\"-mbrBtnMove\">Debate</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-23\" data-toolbar=\"-mbrBtnMove\">Pictionary</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-26\" data-toolbar=\"-mbrBtnMove\">Spell-Bee</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-25\" data-toolbar=\"-mbrBtnMove\">Paper Dance</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-24\" data-toolbar=\"-mbrBtnMove\">Jeopardy</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-27\" data-toolbar=\"-mbrBtnMove\">Clay Modeling<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"misc2.html#header2-28\" data-toolbar=\"-mbrBtnMove\">Common Quiz<br></a> ",
           "_tags": [
             "Theme"
           ],
@@ -1970,10 +1970,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2423,7 +2423,10 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/treasure-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2733,7 +2736,7 @@
             }
           },
           "title": "MEME MAKING",
-          "text": "<p>Make memes and conquer the world . Also prove Steve Wozniak wrong.Keep it CREATIVE,ORIGINAL and HUMOROUS.<br><a href=\"assets/files/Templates.docx\">Download</a> these templates. You can submit only one entry on either or both the templates on our facebook page (only through message,don't post on page wall).<br>PS: It's not maymay :p<br>Co-Ordinators- &nbsp; Vaibhav Tripathi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rohan Raj Singh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Varun Gupta</p><br><p><br></p>",
+          "text": "<p>Make memes and conquer the world . Also prove Steve Wozniak wrong.Keep it CREATIVE,ORIGINAL and HUMOROUS.<br><a href=\"assets/files/Templates.docx\">Download</a> these templates. You can submit only one entry on either or both the templates on our facebook page (only through message,don't post on page wall).Deadline is 31st March.<br>PS: It's not maymay :p<br>Co-Ordinators- &nbsp; Vaibhav Tripathi &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Rohan Raj Singh &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Varun Gupta</p><br><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.facebook.com/shlvish55/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPLOAD NOW-<span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-&nbsp;<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_tags": [
             "Theme"
@@ -2919,7 +2922,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">PICTIONARY</span>",
-          "text": "A picture is worth a thousand words.It's like dumb charades with Pictures instead.Not so dumb now!<br>Co-Ordinators-Vaibhav Tripathi<br>Nagma Shabbir",
+          "text": "A picture is worth a thousand words.It's like dumb charades with Pictures instead.Not so dumb now!<br>Only 2 members in a team.<br>Co-Ordinators-Vaibhav Tripathi<br>Nagma Shabbir",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
@@ -3037,7 +3040,7 @@
             }
           },
           "title": "PAPER DANCE",
-          "text": "Dance on paper with your partner till your legs stay on paper.The paper folds in half in successive rounds.<br>Co-Ordinators-Vaibhav Tripathi<br>Vanshika Gupta",
+          "text": "Dance on paper with your partner till your legs stay on paper.The paper folds in half in successive rounds.<br>Co-Ordinators-Shivangi Gupta<br>Mini Gupta<br>Vaibhav Tripathi",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
