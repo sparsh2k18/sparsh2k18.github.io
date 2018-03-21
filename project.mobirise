@@ -337,7 +337,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "COMPUTER SCIENCE AND ENGINEERING",
+                "title": "Computer Science And Engineering",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -352,7 +352,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "MECHANICAL &amp; CIVIL ENGINEERING",
+                "title": "Mechanical &amp; Civil Engineering",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -367,7 +367,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "ELECTRONICS &amp; ELECTRICAL ENGINEERING",
+                "title": "Electronics &amp; Electrical Engineering",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -384,7 +384,7 @@
           "_anchor": "slider-f",
           "_styles": {
             "H2": {
-              "font-size": "48px",
+              "font-size": "36px",
               "text-align": "center"
             }
           }
