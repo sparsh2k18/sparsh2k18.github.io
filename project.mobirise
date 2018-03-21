@@ -433,7 +433,8 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#e25041"
+              "color": "#e25041",
+              "font-size": "46px"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
