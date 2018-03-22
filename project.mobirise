@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sparsh 2k18",
-    "currentPage": "techcse.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 91,
+    "uniqCompNum": 92,
     "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -356,7 +356,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-12\" data-toolbar=\"-mbrBtnMove\">2D Drafting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-13\" data-toolbar=\"-mbrBtnMove\">Bridge Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-14\" data-toolbar=\"-mbrBtnMove\">Hydraulic Weight<br>Lifting&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-15\" data-toolbar=\"-mbrBtnMove\">Water Rocketry</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-16\" data-toolbar=\"-mbrBtnMove\">Air Compressed<br>Car<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-18\" data-toolbar=\"-mbrBtnMove\">Project Exhibition/\n<br>Technical Presentation&nbsp;<br></a>  ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-12\" data-toolbar=\"-mbrBtnMove\">2D Drafting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-2j\" data-toolbar=\"-mbrBtnMove\">3D Drafting</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-13\" data-toolbar=\"-mbrBtnMove\">Bridge Making</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-14\" data-toolbar=\"-mbrBtnMove\">Hydraulic Weight<br>Lifting&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-15\" data-toolbar=\"-mbrBtnMove\">Water Rocketry</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-16\" data-toolbar=\"-mbrBtnMove\">Air Compressed<br>Car<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"techceme.html#header2-18\" data-toolbar=\"-mbrBtnMove\">Project Exhibition/\n<br>Technical Presentation&nbsp;<br></a>  ",
                 "overlayColor": "#000000"
               },
               {
@@ -1152,6 +1152,57 @@
             "image": {
               "active": true,
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/3d-modeling-1400x1127.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "3D Drafting",
+          "text": "Push Your drafting skills a step further.<br>C0-Ordinators-Mukul Kumar<br>Shubham Namdev<br>Arun Kumar",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9758460189\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/meback-852x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/bmaki-800x600.jpg",
               "link": "",
               "alt": "",
@@ -1170,7 +1221,7 @@
             }
           },
           "title": "BRIDGE MAKING",
-          "text": "Design a light weight but durable bridge.<br>Co-Oridnators-Arun Kumar<br>Shubham Namdev",
+          "text": "Design a light weight but durable bridge.<br>Co-Oridnators-Arun Kumar<br>Rustam Ali<br>Nitish Kumar",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9506064217\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
