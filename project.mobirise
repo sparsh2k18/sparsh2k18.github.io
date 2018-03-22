@@ -118,7 +118,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -690,7 +690,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -735,7 +735,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -786,7 +786,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -838,7 +838,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -889,7 +889,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -940,7 +940,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -1050,7 +1050,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1095,7 +1095,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -1146,7 +1146,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -1197,7 +1197,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -1253,7 +1253,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -1304,7 +1304,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -1355,7 +1355,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -1465,7 +1465,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1510,7 +1510,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -1572,10 +1572,10 @@
               "font-family": "'Roboto Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.35rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.462rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1620,7 +1620,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2019,7 +2019,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features4-a\">EVENTS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-m\" aria-expanded=\"false\">OUR TEAM</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2064,7 +2064,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2123,7 +2123,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2170,7 +2170,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "48",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
             "parallax": true,
@@ -2182,7 +2182,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2241,7 +2241,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2300,7 +2300,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2359,7 +2359,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2418,7 +2418,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2442,7 +2442,7 @@
             }
           },
           "title": "TREASURE HUNT",
-          "text": "Discover your inner Sherlock . Search for the clues and reach the destination . Minimum 3 and Maximium 5 players.<br>Co-Ordinators-Vaibhav Tripathi<br>Vijay Pathak",
+          "text": "Discover your inner Sherlock . Search for the clues and reach the destination . Minimum 3 and Maximium 5 players.<br>Co-Ordinators-Vaibhav Tripathi &nbsp; &nbsp;Vijay Pathak &nbsp; Mukul Kumar",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
@@ -2477,7 +2477,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2524,7 +2524,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "54",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
             "parallax": true,
@@ -2595,7 +2595,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2713,7 +2713,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -2772,7 +2772,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2840,7 +2840,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2899,7 +2899,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2946,7 +2946,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "48",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
             "parallax": true,
@@ -2982,7 +2982,7 @@
             }
           },
           "title": "S-P-E-L-L &nbsp; B-E-E",
-          "text": "The only accepted variant of Nazism is Grammar Nazism ! Make sure to spell the words correct in this fun event.<br>Co-Ordinators-Praviksha Tomar&nbsp;",
+          "text": "The only accepted variant of Nazism is Grammar Nazism ! Spell the words correct in this fun event.<br>Co-Ordinators-Praviksha Tomar&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9958056152\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> ",
           "_tags": [
             "Theme"
@@ -3017,7 +3017,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -3064,7 +3064,7 @@
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": 50,
+            "imageSize": "49",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/misc-1920x1080.jpg",
             "parallax": true,
@@ -3194,7 +3194,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -3253,7 +3253,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.3
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
