@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Sparsh 2k18",
-    "currentPage": "cult.html",
+    "currentPage": "techcse.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#c0a375",
         "secondaryColor": "#25a88c",
-        "successColor": "#0c60be",
+        "successColor": "#00a885",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#b40906",
@@ -289,13 +289,13 @@
               "family": "et-line"
             }
           },
-          "title1": "<a href=\"index.html#slider-f\">Technical</a>",
+          "title1": "<a href=\"index.html#slider-f\" class=\"text-white\">Technical</a>",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<a href=\"index.html#header5-i\">Cultural</a>",
+          "title2": "<a href=\"index.html#header5-i\" class=\"text-white\">Cultural</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<a href=\"index.html#header5-j\">Miscellaneous</a>",
+          "title3": "<a href=\"index.html#header5-j\" class=\"text-white\">Miscellaneous</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -759,7 +759,7 @@
             }
           },
           "title": "&lt;Let's CS /&gt;<br><br>",
-          "text": "Participate in the competitive quizzing session covering C,HTML,CSS,JavaScript and tech related questions.<br>90 questions.<br>90 minutes.<br><br>Co-Ordinators - Vaibhav Tripathi<br>Rohan Raj Singh<br>Atul Singh<br>",
+          "text": "Participate in the competitive quizzing session covering C,HTML,CSS,JavaScript and tech related questions.<br>60 questions.<br>60 minutes.<br><br>Co-Ordinators - Vaibhav Tripathi<br>Rohan Raj Singh<br>Atul Singh<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726455123\" data-toolbar=\"-mbrBtnMove\">&nbsp;FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
@@ -862,7 +862,7 @@
             }
           },
           "title": "(DESIGN X)<br>",
-          "text": "Showcase your designing skills using tools of web design-HTML,CSS,JavaScript.<br>Co-Ordinators-Atul Singh<br>Preeti Kumari",
+          "text": "Showcase your designing skills using tools of web design-HTML,CSS,JavaScript.<br>Co-Ordinators-Atul Singh<br>Ramashish Maurya<br>Preeti Kumari",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:8726787321\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
@@ -913,7 +913,7 @@
             }
           },
           "title": "[BLIND CODING]",
-          "text": "Turn your Arjun mode ON and hit the right spot.<br>Code &nbsp;some simple problems in a time bound scenario while the screen is shut.Minimise your errors to advance yourself in the competition.<br>Co-Ordinators-Shivangi Gupta<br>Prashant Sharma<br>Vanshika Gupta<br><br>",
+          "text": "Turn your Arjun mode ON and hit the right spot.<br>Code &nbsp;some simple problems in a time bound scenario while the screen is shut.Minimise your errors to advance yourself in the competition.<br>Co-Ordinators-Shivangi Gupta<br>Vanshika Gupta<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:9454070207\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
@@ -964,8 +964,8 @@
             }
           },
           "title": "Project Exhibiton/Technical Presentation",
-          "text": "Showcase your project or give a technical presentation on any topic of your choice.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER<br></a>",
+          "text": "Showcase your project or give a technical presentation on any topic of your choice.<br>Co-Ordinators- Rohan Raj Singh &nbsp; Vaibhav Tripathi",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -2553,7 +2553,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">TATTOO MAKING</span>",
           "text": "Make a cool tattoo.Nuf' said.<br>Co-Ordinators-Swati Jha<br>Varun Gupta",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:7291041976\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO_<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:7291041976\" data-toolbar=\"-mbrBtnMove\">FOR MORE INFO-<span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a>",
           "_tags": [
             "Theme"
           ],
