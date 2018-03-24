@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Sparsh 2k18",
-    "currentPage": "cult.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#c0a375",
         "secondaryColor": "#25a88c",
-        "successColor": "#00a885",
+        "successColor": "#2969b0",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#b40906",
