@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sparsh 2k18",
-    "currentPage": "techcse.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -164,7 +164,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "SPARSH '18",
+          "title": "SPARSH '18<br>30th , 31st &amp; 1st",
           "text": "Join us in what could be the last event to be hosted and you sure would not like to miss the penultimate melting pot of zeal &nbsp;, creativity and charishma lasting over 3 days .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#features4-a\" data-toolbar=\"-mbrBtnMove\">EVENTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfwevVVyElP5gS67b5l7NWmg7FiPAFAq4Plh1Uouu5WcypYOw/viewform\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE</a> ",
           "_tags": [
@@ -177,6 +177,9 @@
               "text-align": "center",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "72px"
             }
           }
         },
